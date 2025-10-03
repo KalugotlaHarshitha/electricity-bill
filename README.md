@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Electricity-Bill-Management
 # ⚡ Electricity Bill Management System (ServiceNow)
 
@@ -47,3 +48,6 @@ The system automates bill generation, payment tracking, and notifications with a
 
 ## 📜 License
 This project was created for educational purposes to demonstrate *ServiceNow development skills*.
+=======
+
+>>>>>>> 4650f1afc757e6b3553086535faa77f36b8f2c4d
